@@ -26,13 +26,17 @@ La reducción del peso de la industria en la economía argentina responde princi
 # Bases de datos utilizadas 
 ## Fuentes
 - Argendata
-
 -Banco Mundial 
 
 ## Variables principales
-PBI industrial per cápita
-Participación de la industria en el PBI
-Participación del sector primario en el PBI
-Participación de manufacturas en exportaciones totales
-Importaciones y exportaciones industriales
-Índice de desempeño industrial competitivo
+-PBI industrial per cápita
+
+-Participación de la industria en el PBI
+
+-Participación del sector primario en el PBI
+
+-Participación de manufacturas en exportaciones totales
+
+-Importaciones y exportaciones industriales
+
+-Índice de desempeño industrial competitivo
