@@ -29,7 +29,7 @@ La reducción del peso de la industria en la economía argentina responde princi
 
 - [Banco Mundial] (https://datos.bancomundial.org/indicador/NV.AGR.TOTL.ZS) 
 
-# Período analizado
+## Período analizado
 
 1970–2024
 
@@ -53,11 +53,5 @@ La reducción del peso de la industria en la economía argentina responde princi
 - Mexico
 
 # Estructura del repositorio 📁
-- raw/ → datos crudos descargados
-- input/ → datos limpios y procesados
-- output/ → resultados, tablas y gráficos
-- auxiliar/ → bases complementarias
-- utils/ → funciones auxiliares
-- scripts/ → scripts del proyecto
-
+proyecto/ ├── raw/ # Bases originales descargadas ├── auxiliar/ # Bases complementarias ├── input/ # Bases limpias y procesadas ├── output/ # Gráficos, tablas y resultados ├── scripts/ # Scripts del proyecto ├── utils/ # Funciones auxiliares └── README.md
 # Orden de ejecución de scripts
