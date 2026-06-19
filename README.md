@@ -15,3 +15,24 @@ Este proyecto surge del trabajo de dos estudiantes de la Facultad de Ciencias Ec
 A través del análisis de datos, visualizaciones y herramientas estadísticas, buscamos estudiar el comportamiento del sector industrial para identificar patrones, transformaciones y posibles períodos de crecimiento o retroceso. Asimismo, realizamos una comparación con otros países de América Latina con el fin de contextualizar el caso argentino dentro de una dinámica regional más amplia.
 
 Nuestro objetivo es aportar evidencia basada en datos para comprender mejor las transformaciones productivas del país y su posicionamiento en la región.
+
+# Hipótesis de trabajo 🕵️‍♀️
+## Hipotesis principal 
+En los últimos cincuenta años, Argentina experimentó un proceso de desindustrialización que deterioró su capacidad productiva industrial real, alejándola de la trayectoria de crecimiento sostenido que lograron mantener países de la región como Brasil y México.
+
+## Hipotesis complementaria
+La reducción del peso de la industria en la economía argentina responde principalmente a un proceso de reprimarización. El crecimiento de sectores primarios (favorecidos por cambios en los precios internacionales y la expansión de actividades como el agro y la energía) habría disminuido la participación relativa de la industria en el PBI, sin implicar necesariamente una caída absoluta de la producción industrial.
+
+# Bases de datos utilizadas 
+## Fuentes
+- Argendata
+
+-Banco Mundial 
+
+## Variables principales
+PBI industrial per cápita
+Participación de la industria en el PBI
+Participación del sector primario en el PBI
+Participación de manufacturas en exportaciones totales
+Importaciones y exportaciones industriales
+Índice de desempeño industrial competitivo
