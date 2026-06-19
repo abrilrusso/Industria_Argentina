@@ -48,7 +48,7 @@ La reducción del peso de la industria en la economía argentina responde princi
 - Chile
 - Mexico
 
-# Estructura del repositorio
+# Estructura del repositorio 📁
 - raw/ → datos crudos descargados
 - input/ → datos limpios y procesados
 - output/ → resultados, tablas y gráficos
