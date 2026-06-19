@@ -1,6 +1,6 @@
 # Industria Argentina: ¿crisis o transformacion?
 ## Presentacion 
--Integrantes: Abril Russo y Franco Croce
+-Integrantes: Abril Russo Bergara y Franco Nicolas Croce
 
 -Materia: Ciencia de Datos para Economía y Negocios
 
