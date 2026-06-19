@@ -26,7 +26,8 @@ La reducción del peso de la industria en la economía argentina responde princi
 # Bases de datos utilizadas 
 ## Fuentes
 - Argendata
--Banco Mundial 
+
+- Banco Mundial 
 
 ## Variables principales
 -PBI industrial per cápita
@@ -40,3 +41,19 @@ La reducción del peso de la industria en la economía argentina responde princi
 -Importaciones y exportaciones industriales
 
 -Índice de desempeño industrial competitivo
+
+## Paises analizados
+- Argentina
+- Brasil
+- Chile
+- Mexico
+
+# Estructura del repositorio
+raw/ → datos crudos descargados
+input/ → datos limpios y procesados
+output/ → resultados, tablas y gráficos
+auxiliar/ → bases complementarias
+utils/ → funciones auxiliares
+scripts/ → scripts del proyecto
+
+# Orden de ejecución de scripts
