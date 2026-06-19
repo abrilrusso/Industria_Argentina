@@ -25,9 +25,13 @@ La reducción del peso de la industria en la economía argentina responde princi
 
 # Bases de datos utilizadas 📊
 ## Fuentes
-- Argendata
+- [Argendata] (https://argendata.fund.ar/topico/industria/) 
 
-- Banco Mundial 
+- [Banco Mundial] (https://datos.bancomundial.org/indicador/NV.AGR.TOTL.ZS) 
+
+# Período analizado
+
+1970–2024
 
 ## Variables principales
 -PBI industrial per cápita
