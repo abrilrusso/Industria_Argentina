@@ -77,4 +77,6 @@ proyecto/
 └── README.md   # Documentación del proyecto
 ```
 
-## Orden de ejecución de scripts
+## Instrucciones de reproducción
+
+## Conclusiones
