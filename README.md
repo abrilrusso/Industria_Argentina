@@ -78,5 +78,7 @@ proyecto/
 ```
 
 ## Instrucciones de reproducción
+### Paquetes necesarios
+
 
 ## Conclusiones
