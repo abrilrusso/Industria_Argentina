@@ -47,7 +47,7 @@ La reducción del peso de la industria en la economía argentina responde princi
 
 -Índice de desempeño industrial competitivo
 
-### Paises analizados 🌎
+### Paises trabajados 🌎
 - Argentina
 - Brasil
 - Chile
