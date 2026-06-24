@@ -69,7 +69,7 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 ### Herramientas metodológicas 🛠️
 - Indexación de series (base 1970 = 100): permite comparar variables con distinta escala.
 - Tasas de variación acumuladas: mide cambios por subperíodos.
-- Descomposición STL: separa tendencia, estacionalidad y ruido.
+- Descomposición por promedio movil: separa tendencia, estacionalidad y ruido.
 - Prueba T de Welch: evalúa diferencias entre países
 
 
