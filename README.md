@@ -65,6 +65,8 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 - readxl
 - scales
 - zoo
+- dlookr
+- naniar
 
 ### Herramientas metodológicas 🛠️
 - Indexación de series (base 1970 = 100): permite comparar variables con distinta escala.
