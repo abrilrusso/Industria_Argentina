@@ -96,16 +96,31 @@ install.packages(c("tidyverse", "readxl", "scales", "zoo","dlookr","naniar"))
 
 4. Ejecutar los scripts en el siguiente orden:
 
-Exploración y visualización inicial:
+- 00a_instalar_paquetes.R → Instala y verifica las librerías necesarias para ejecutar el proyecto.
 
-- 01a_grafico_comunicacional.R (Muestra la evolución de la participación industrial en los países analizados.)
-- 01b_exploratorio_argentina.R (Compara la evolución del sector industrial y del sector primario de Argentina)
-- 01g_exploratorio_brasil.R (Compara la evolucion del sector industrial y del sector primario de Brasil)
-- 01h_exploratorio_mexico.R (Compara la evolucion del sector industrial y del sector primario de México)
-- 01i_exploratorio_chile.R (Compara la evolucion del sector industrial y del sector primario de Chile)
-- 01j_dumbbell_pbi_industrial.R (Genera el gráfico comparativo tipo dumbbell sobre participación industrial)
+- 00b_datos_faltantes_outliers.R → Realiza el diagnóstico inicial de datos faltantes y posibles valores atípicos.
 
-Visualizaciones complementarias:
+- 01_PBI_industrial_per_capita_comparado.R → Analiza y grafica la evolución del PBI industrial per cápita entre países.
+
+- 02a_share_industrial_y_primario_ARG.R → Calcula y grafica la participación de los sectores industrial y primario en el PBI de Argentina.
+
+- 02b_share_industrial_y_primario_BR.R → Calcula y grafica la participación de los sectores industrial y primario en el PBI de Brasil.
+
+- 02c_share_industrial_y_primario_MEX.R → Calcula y grafica la participación de los sectores industrial y primario en el PBI de México.
+
+- 02d_share_industrial_y_primario_CHI.R → Calcula y grafica la participación de los sectores industrial y primario en el PBI de Chile.
+
+- 03_estadisticas_descriptivas.R → Genera estadísticas descriptivas de las variables analizadas.
+
+- 04_pbi_industrial_comparado.R → Compara la evolución del PBI industrial entre los países seleccionados.
+
+- 05_balanza_comercial_industrial.R → Analiza la balanza comercial industrial (exportaciones e importaciones).
+
+- 06_manufacturas_expo_totales.R → Estudia la participación de las manufacturas en las exportaciones totales.
+
+- 07_descomposicion_por_promedio_movil.R → Aplica promedios móviles para identificar tendencias en las series temporales.
+
+- 08_test_de_welch.R → Realiza el test de Welch para comparar medias entre períodos o grupos.
 
 5. Los gráficos y resultados se guardaran automáticamente en la carpeta "output".
 
